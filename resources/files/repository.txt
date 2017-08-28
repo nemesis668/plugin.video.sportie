@@ -1,0 +1,15 @@
+[COLOR ddodgerblue]Sportie Information[/COLOR]
+
+[COLOR mediumpurple]We can see that you do not have the official ECHO repository installed on your system.
+[/COLOR]
+[COLOR white]Having the repository installed is vital as it allows us to push updates to the addon. Without the repository you will end up with an outdated version of the addon and when things break it will be very hard for support to be provided.
+
+You can get the ECHO repository by addon the following source to your Kodi file manager.[/COLOR]
+
+[COLOR red][B]http://fusion.tvaddons.ag[/B][/COLOR]
+
+Once you have installed the repository you will be able to open the addon.
+
+The addon will now close.
+
+Thank you![/COLOR]
